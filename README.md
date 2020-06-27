@@ -1,4 +1,4 @@
-# Data_Challenges
+# Data Challenges
 
 Some quick data challenges.
 
@@ -22,9 +22,9 @@ Start to work your way through your list of hypotheses in order to determine the
 drop in engagement.
 
 Answer the following questions:
-● Do the answers to any of your original hypotheses lead you to further questions?
-● If so, what are they and how will you test them?
-● If they are questions that you can’t answer using data alone, how would you go about
+* Do the answers to any of your original hypotheses lead you to further questions?
+* If so, what are they and how will you test them?
+* If they are questions that you can’t answer using data alone, how would you go about
 answering them (hypothetically, assuming you actually worked at this company)?
-● What seems like the most likely cause of the engagement dip?
-● What, if anything, should the company do in response?
+* What seems like the most likely cause of the engagement dip?
+* What, if anything, should the company do in response?
